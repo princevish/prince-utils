@@ -1,0 +1,30 @@
+{
+  "name": "prince-utils",
+  "version": "1.0.0",
+  "description": "all in one utils project for make  developer life easy",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "author": "Prince Vishwakarma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princevish/prince-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "bugs": {
+    "url": "https://github.com/princevish/prince-utils/issues"
+  },
+  "homepage": "https://github.com/princevish/prince-utils#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
