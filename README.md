@@ -5,6 +5,11 @@
 - ObjectFilter  
 
 
+## Log
+    Log.success(message);
+    Log.danger(message);
+    Log.info(message);
+
 ## ObjectFilter
 
 ### ObjectFilter.filter();

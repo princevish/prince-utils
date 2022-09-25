@@ -1,6 +1,6 @@
 {
   "name": "prince-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "all in one utils project for make  developer life easy",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
